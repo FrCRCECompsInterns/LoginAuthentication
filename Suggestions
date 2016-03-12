@@ -1,5 +1,5 @@
 Issues with the project structure:
 
-1.form package not required.
-2.use three different xml config files instead of a single dispatcher servlet
+1.form package not required : refer "Reference" and "Project Specs" on drive
+2.use three different xml config files instead of a single dispatcher servlet : refer ZNevzz/UpdateProfile and  accordingly add all your xml config in only 1 dispatcher servlet.xml
 
